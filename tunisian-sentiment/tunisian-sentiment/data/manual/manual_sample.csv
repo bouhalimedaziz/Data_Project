@@ -1,0 +1,61 @@
+id,source,label,direction,original_text,manual_text,notes,annotator
+tsac_train_06618,tsac,pos,ar_to_arabizi,نعم الأخت ألف تحيه ليك,,,aziz
+tsac_train_08712,tsac,neg,ar_to_arabizi,كلكم خرررررررر. ا,,,mouhib
+tsac_train_00115,tsac,pos,ar_to_arabizi,وجيهة مرأة ياسر طموحة,,,iskander
+tsac_train_08409,tsac,neg,ar_to_arabizi,ثعلب تونس الله ﻹتربحها,,,aziz
+tsac_train_00730,tsac,pos,ar_to_arabizi,معلم وليد التونسي,,,mouhib
+tsac_train_11445,tsac,neg,ar_to_arabizi,جهلول يعمل في buzz فماش ما يكبر شعبيتو تي انقرض وهف أقسم بربي هامل و سوكارجي و معظم الأساتذة عارفين هذا مستغرب كان فالأحمرة اللي عاجبتهم أفعالك انقرض نم,,,iskander
+tsac_train_03243,tsac,pos,ar_to_arabizi,احلا عبد الحميد ربي معك,,,aziz
+tsac_train_11022,tsac,neg,ar_to_arabizi,مفيدة الفاجرة مسلسل شبه ارهابي,,,mouhib
+tsac_train_01988,tsac,pos,ar_to_arabizi,عجبتني لموتور لكببره لسرقها براهيم,,,iskander
+tsac_train_07937,tsac,neg,ar_to_arabizi,يا توفيق العيب موش فيك ، العيب كل العيب في اللي جابك للبلاتو,,,aziz
+tsac_train_05493,tsac,pos,ar_to_arabizi,من أحلى المنشطين، برافو أمين و انشاء الله ديما متألق,,,mouhib
+tsac_train_08655,tsac,neg,ar_to_arabizi,مامسطها هالجلطة مخيب منظرهااااا,,,iskander
+tsac_train_04254,tsac,pos,ar_to_arabizi,يا جعفر مارقدنلش واتفرجنا فيك وربي معاك يا جعفور,,,aziz
+tsac_train_09424,tsac,neg,ar_to_arabizi,يا وخياني هل الكلب الحيوان الديوث كان نشدوا 👹👊👊👊👋👋👋👋👋👋👋👋👋🔫🔫🔫🔫🔫🔫💣💣💣💣💣💣,,,mouhib
+tsac_train_00189,tsac,pos,ar_to_arabizi,امراءة مثقفة و فيها امل و البسمة زايدتها الشطر ..من منظرها نحبها.... طيبة,,,iskander
+tsac_train_12922,tsac,neg,ar_to_arabizi,يا خويا أمسط منك ما راتش عيني 😒😒 يا خويا أمسط منك ما راتش عيني 😒😒,,,aziz
+tsac_train_02294,tsac,pos,ar_to_arabizi,نحبها كإنسانة من غير ما نعرفها..,,,mouhib
+tsac_train_13372,tsac,neg,ar_to_arabizi,رني رني علمو الشعب الدياثة و القحب,,,iskander
+tsac_train_02197,tsac,pos,ar_to_arabizi,ما شاء الله عليها ربي يفضلهالك,,,aziz
+tsac_train_10768,tsac,neg,ar_to_arabizi,حفيان جيعان عريان طحان,,,mouhib
+tsac_train_04151,tsac,pos,ar_to_arabizi,ونعمة الاب والله,,,iskander
+tsac_train_09892,tsac,neg,ar_to_arabizi,بعيدا عن تفاهتك الشهيرة ووقاحتك المعروفة شلاغمك راهي كملت على مرمتك نحيها ما تعرفش يمكن تتنحا معاها قلة الحياء.............,,,aziz
+tsac_train_02960,tsac,pos,ar_to_arabizi,تعجبني برشا ..من أحسن الممثلين في تونس,,,mouhib
+tsac_train_07764,tsac,neg,ar_to_arabizi,هذه حقيقة الإخونج ... الخماج ...,,,iskander
+tsac_train_03133,tsac,pos,ar_to_arabizi,بكل سرحة ابداع خاصة سمير تختب نميس يا معلم تريح على قاعد ههههههههههههههه,,,aziz
+tsac_train_08880,tsac,neg,ar_to_arabizi,"""يااااااااا قحبة إحترم إناس لتتفرج في هالبرنامج لقحب",,,mouhib
+tsac_train_04357,tsac,pos,ar_to_arabizi,إمرأة بألف رجل،،،كم أنتي كبيرة يا بنت الخضراء,,,iskander
+tsac_train_08575,tsac,neg,ar_to_arabizi,سارق وكلب من كلاب كمال لطيف,,,aziz
+tsac_train_04896,tsac,pos,ar_to_arabizi,عسلة نحبها برشا ممثلة كبيرة ربي يوفقها,,,mouhib
+tsac_train_08511,tsac,neg,ar_to_arabizi,التلفزة الكل ماسطة لاسطة,,,iskander
+tsac_train_05501,tsac,pos,ar_to_arabizi,أمنة أنت مثيرة جدا,,,aziz
+tsac_train_13658,tsac,neg,ar_to_arabizi,بصراحه ياسر تزوفير وقله احياء,,,mouhib
+tsac_train_00656,tsac,pos,ar_to_arabizi,"""نحبوووو برشااا و يعجبني",,,iskander
+tsac_train_09281,tsac,neg,ar_to_arabizi,اكا المسمى بلطفي العبدلّي، ملاّ مستوى و ملاّ انحطاط، لطفي العبدلّي ماينجم يكون كان مهرّج، خاطيه الفن مسكين!!!,,,aziz
+tsac_train_00381,tsac,pos,ar_to_arabizi,لطيف وحدك في الضحك,,,mouhib
+tsac_train_12157,tsac,neg,ar_to_arabizi,والله اكبر طحان ريتو في اخياتي زعمة زعمة فنان تونس وجهة اتقولش اعليه كعبة افطايبر من امدق الحلفة فيق على وظعك يا ولدي مهما تعمل راك ما توصلش حبوبة و سمير لوصيف,,,iskander
+tsac_train_00258,tsac,pos,ar_to_arabizi,الأخت محرزية سياسية راقية في الفكر و التفكير,,,aziz
+tsac_train_12418,tsac,neg,ar_to_arabizi,"""بلاد الواق واق",,,mouhib
+tsac_train_04040,tsac,pos,ar_to_arabizi,شكرًا فوري بن قمره ربي يبارك فيك و يكثر من أمثالك,,,iskander
+tsac_train_12045,tsac,neg,ar_to_arabizi,قلاب و سارق,,,aziz
+tsac_train_01932,tsac,pos,ar_to_arabizi,ممثلة من الوزن الثقيل,,,mouhib
+tsac_train_08496,tsac,neg,ar_to_arabizi,بالله بيه ما عااااااااش تجيبوهاااااا تي زح تتمعجن وهي قد امي من أكثر الناس لتتصنع في طبيعتها,,,iskander
+tsac_train_05331,tsac,pos,ar_to_arabizi,جعفور طلع حساس وولد ناس يحس بغيرو اكثر مالحكومة,,,aziz
+tsac_train_07346,tsac,neg,ar_to_arabizi,برا مخيب وجهك جاية تحكي على المرأة التونسية وانتي أكبر وسمت عار لها برافو لوليد التونسي كي عطاك درسك,,,mouhib
+tsac_train_04774,tsac,pos,ar_to_arabizi,رجل دين رغم انف المخنثين الشمسيين,,,iskander
+tunizi_039977,tunizi,pos,arabizi_to_ar,ana man marocco o nahbk o namot 3alk,,,aziz
+tunizi_062456,tunizi,neg,arabizi_to_ar,nidhaal walahy fheemt lougha belghalet sahby ena 3vs1,,,mouhib
+tunizi_042089,tunizi,pos,arabizi_to_ar,mashallah khoya samaraa m3allemm grandissimo,,,iskander
+tunizi_068197,tunizi,neg,arabizi_to_ar,ty sayb aalikom bellehyy lwehed yemchii yetfarej jam3iya yechba3 sab o zid yokhrj yetbrakouh ty hayawenett mouch 3bed lee o lkollha ooled ejam3iya lmochkll aamlou hall wela blech biha l koura fy tunis,,,aziz
+tunizi_010310,tunizi,pos,arabizi_to_ar,plzzzzz jaime pour ca w nchalla ya rabi marbouha lyoum w belehi la teb5lo 3al page rana wled jam3ia,,,mouhib
+tunizi_070948,tunizi,neg,arabizi_to_ar,ak zouz elli mn teli laaaa,,,iskander
+tunizi_027375,tunizi,pos,arabizi_to_ar,ta3rfou ya jma3a ena,,,aziz
+tunizi_061542,tunizi,neg,arabizi_to_ar,w newin tfaskhouh wala mkamlin fel bhema,,,mouhib
+tunizi_006759,tunizi,pos,arabizi_to_ar,bjeh rabi nakes chwaya mi tsawer,,,iskander
+tunizi_063280,tunizi,neg,arabizi_to_ar,ma3neha wa7da go3ra ko3lefa kifek itji titmanyek 3ala zied il makki illi arjel mirrajel illi fi darkom tfouh a3lik y a edheka 3alla9al 3andou 9ima ou 9dar moch kifek y a tafcha y a sfiha rmed kima 9olt inti na3n kid aslek,,,aziz
+tunizi_022123,tunizi,pos,arabizi_to_ar,hbaltini blbka khalitini ghadi nhma9 yrabi ichafi lik mimtak otol l3omar otkon banti hnina bhalek,,,mouhib
+tunizi_052830,tunizi,neg,arabizi_to_ar,positive voybz wooow ala sa3di ya tunisie mech ta maman 9aretk chwaya figanssia ala chwaya englisia hhhhhh,,,iskander
+tunizi_041022,tunizi,pos,arabizi_to_ar,slim ya wa7ch,,,aziz
+tunizi_091615,tunizi,neg,arabizi_to_ar,bessaraha jaballi mandouch mawkef watheh,,,mouhib
+tunizi_051815,tunizi,pos,arabizi_to_ar,ach5as tawali rais rabi m3ak,,,iskander

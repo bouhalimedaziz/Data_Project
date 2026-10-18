@@ -1,0 +1,10 @@
+step,rows_before,rows_after,removed,note
+load,100000,100000,0,"TUNIZI_V2.txt, one comment per line"
+drop neutral (label 0),100000,96478,3522,"label map: 1->pos, -1->neg"
+"fix_text (_x000D_, spaces)",96478,96478,0,0 rows had _x000D_; 93 rows changed (spaces only)
+remove empty rows,96478,96478,0,
+remove rows without any letter,96478,96478,0,
+remove comments > 200 words,96478,96446,32,0.033% of rows; longest was 1721 words
+remove label conflicts (all copies),96446,96446,0,
+remove exact duplicates (keep first),96446,96444,2,
+final tunizi_clean.csv,96444,96444,0,
