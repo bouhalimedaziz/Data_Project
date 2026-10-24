@@ -1,0 +1,9 @@
+step,rows_before,rows_after,removed,note
+load,17069,17069,0,"TSAC train 13669, test 3400"
+"fix_text (_x000D_, spaces)",17069,17069,0,260 rows had _x000D_; 1634 rows changed
+remove empty rows,17069,17061,8,
+remove rows without any letter,17061,16977,84,
+remove label conflicts (all copies),16977,16873,104,12 conflicting texts; removed 104 rows
+remove duplicates within split (keep first),16873,15498,1375,removed 1375 duplicate rows within split
+remove train/test leakage (drop train copy),15498,15185,313,313 leaked texts; removed 313 train rows
+final tsac_clean.csv,15185,15185,0,"saved with columns id,text,label,source,split"
