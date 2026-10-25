@@ -1,0 +1,9 @@
+step,rows_before,rows_after,removed,note
+load,17069,17069,0,train 13669 / test 3400
+"fix_text (_x000D_, spaces)",17069,17069,0,260 rows had _x000D_
+remove empty rows,17069,17061,8,train 13662 / test 3399
+remove rows without any letter,17061,16994,67,train 13612 / test 3382
+remove label conflicts (all copies),16994,16887,107,12 distinct texts
+remove duplicates inside a split (keep first),16887,15513,1374,train 12305 / test 3208
+remove train copies of test texts (leakage),15513,15201,312,train 11993 / test 3208
+final tsac_clean.csv,15201,15201,0,train 11993 / test 3208

@@ -1,4 +1,4 @@
-"""Script detection rule agreed by the team.
+"""Script detection rule (80% of letters).
 
 1. Count Arabic letters (U+0621..U+064A plus ڤ پ چ گ) and Latin letters
    (a-z, A-Z and accented letters such as é, à, ç). Digits, emoji and

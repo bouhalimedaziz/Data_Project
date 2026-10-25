@@ -1,0 +1,31 @@
+id,source,script,text,correct
+tsac_test_02050,tsac,arabic,يا سي مهدي كلامك نعرفوه اما بربي المره الجاية جيب الجديد رانا فدينة من تسخين الباية البلاد هززها الواد و السياسين يقولو العام صابة,yes
+tsac_train_08322,tsac,arabic,ياخويا ياخويا على الانبطاحية والتفاهة ملا مسرحي وملا ثقافة يحملها بففففف,yes
+tsac_test_01864,tsac,arabic,البلادة فن وهو يتقن هذا الفن,yes
+tsac_test_00257,tsac,arabic,سيدة محترمة و مثال للمرأة التونسية,yes
+tsac_train_11578,tsac,arabic,ممسط زك امو نحب نشد و نستفعل فيه,yes
+tsac_train_00667,tsac,arabic,عسل يختي عسل,yes
+tsac_train_04420,tsac,arabic,مبرووووك القناعة باهية,yes
+tsac_train_11304,tsac,arabic,بف بف شكيب مرزنووووووووو !!!,yes
+tsac_train_07348,tsac,arabic,هذا الشخص هو مفسد هذا الجيل من الأطفال بإمتياز.. أطفال في الروضة و يغنون مزاطيل!!! هل هذا معقول!!! المفروض يكون رقابة لبعض الأغاني التي لا تليق و لا قيمة لها سوی إفساد الذوق العام..مستوي هابط,yes
+tsac_train_09299,tsac,arabic,بري روحي,yes
+tsac_train_06364,tsac,arabic,. تونس برجالها ربي يحميكم,yes
+tsac_test_01172,tsac,arabic,برافو سامي,yes
+tsac_train_00687,tsac,arabic,ربي اوفقك,yes
+tsac_test_00460,tsac,arabic,سامباتيك والله يخليلها شبابها,yes
+tsac_test_01439,tsac,arabic,روعة مريومة ونضال ♥♥,yes
+tunizi_049161,tunizi,arabizi,chnoua el fark bin nabeul 1 ou nabeul 2,yes
+tunizi_021456,tunizi,arabizi,nomro nhaftho 3al maryol ma3a tajdid,yes
+tsac_train_09025,tsac,arabizi,9adech nakrhek w 9adechek maset maset pffff w 3amel feha 3a9el hhh,yes
+tunizi_039445,tunizi,arabizi,kol 3am wntia 7aia b 1000 5ir yal4alia ca foooooooorza,yes
+tunizi_062436,tunizi,arabizi,hata ken serek nhebouh iwali rais tounes ejey lmouhem srek w jebelna khir meli srek w haz heda eftirad ikolek khoudha m en yed chab3ane ida je3 w metekhouhech m en yed ji3an ida chba3 slim rajel chab3ane mankhafouch 3le lmostakbel menou,yes
+tunizi_006141,tunizi,arabizi,ana mach n9oul 7aja wmathabia ta9raha lifri9i fi 7aja lik winti fi 7aja liha fi mars alors 5alli zitna fi d9i9na wrabbi m3ana,yes
+tunizi_078058,tunizi,arabizi,mala lahasa hetheka ch5alana ili yji yirkib 3lîna tfouh 3ali mayaswech houwa haw biflousik mcha ya3mil fi 3omra winti o93id id3ilou 9aweda masi5,yes
+tunizi_084757,tunizi,arabizi,billéhi mal9it mata3mel fech bech netfarjou tawa fil watanya 1 w watanya 2,yes
+tunizi_011744,tunizi,arabizi,elegant beauty,yes
+tsac_train_08037,tsac,arabizi,masta wzid majet chay,yes
+tunizi_056052,tunizi,arabizi,babourik zammir,yes
+tunizi_001602,tunizi,arabizi,jdid ta9tahem,yes
+tunizi_080995,tunizi,arabizi,les voitures administratf come les grand taxi echaab maa elhoukoume eli iheb voiture yechrihe beflousou,yes
+tunizi_054463,tunizi,arabizi,el fom el 7arik ou z k el berik nife99 kil 3adda hhehehe f k you,yes
+tunizi_076253,tunizi,arabizi,tjamer fil bayet,yes

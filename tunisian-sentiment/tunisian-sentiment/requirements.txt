@@ -1,4 +1,9 @@
 pandas>=2.0
+numpy
 matplotlib
 scipy
+openpyxl
 rapidfuzz
+scikit-learn
+arabic-reshaper    # only needed with matplotlib < 3.11 (Arabic labels in plots)
+python-bidi        # same

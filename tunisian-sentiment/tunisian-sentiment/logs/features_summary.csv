@@ -1,0 +1,5 @@
+feature,for,built from,why,size (without mapping),size (with mapping)
+"TF-IDF char 2-5-grams, chi-square top 20,000","TF-IDF + LR, Naive Bayes",text_norm or text_conv,robust to spelling variation; carries the sentiment words,"20,000 columns","20,000 columns"
+"log(1 + n_chars), standardized",TF-IDF + LR,n_chars,length weakly linked to sentiment (r = -0.18); log removes the skew,1 column,1 column
+has_elongation (0/1),TF-IDF + LR,text,keeps the stretching signal lost by normalization,1 column,1 column
+character id sequences,CNN / BiLSTM,text_norm or text_conv,lets the network learn its own character patterns,171 positions,103 positions

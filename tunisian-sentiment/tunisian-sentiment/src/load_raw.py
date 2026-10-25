@@ -1,6 +1,6 @@
 """Load the raw datasets with stable ids.
 
-Everyone uses these two functions, so the same comment always gets the same id
+All notebooks load through these two functions, so the same comment always gets the same id
 in every notebook and file (cleaning, manual sample, merge).
 
 Id order (fixed, do not change):
